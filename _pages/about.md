@@ -7,8 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant professor at Institute of Geometry and Physics, University of Science and Technology of China (USTC).
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a research assistant professor at the Institute of Geometry and Physics, University of Science and Technology of China [(USTC-IGP)](https://igp.ustc.edu.cn/main.htm).
+
+I was a postdoc at Yau Mathematical Sciences Center, Tsinghua University [(Tsinghua-YMSC)](https://ymsc.tsinghua.edu.cn/en/) from 2020 to 2023 under the supervision of Prof. [Caucher Birkar](https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm).
+
+I received my Ph.D. in 2020 from Stony Brook University [(SUNY-SBU)](https://www.math.stonybrook.edu) under the supervision of Prof. [Jason Starr](https://www.math.stonybrook.edu/~jstarr/). 
+
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
