@@ -13,9 +13,8 @@ I was a postdoc at Yau Mathematical Sciences Center, Tsinghua University [(Tsing
 
 I received my Ph.D. in 2020 from Stony Brook University [(SUNY-SBU)](https://www.math.stonybrook.edu) under the supervision of Prof. [Jason Starr](https://www.math.stonybrook.edu/~jstarr/). 
 
+I obtained my B.Sc. in 2014 from the School of the Gifted Young, University of Science and Technology of China [(USTC-SGY)](https://sgy.ustc.edu.cn/main.htm).
 
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
