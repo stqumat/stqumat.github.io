@@ -12,10 +12,10 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
+{% if publications.md %}
+  {% for category in publications.md  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in publications.md reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -27,7 +27,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% for post in publications.md reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
