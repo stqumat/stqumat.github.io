@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Santai Qu's Homepage"
+title: "Santai Qu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I work in birational geometry.
 
 I am currently a research assistant professor at the Institute of Geometry and Physics, University of Science and Technology of China [(USTC-IGP)](https://igp.ustc.edu.cn/main.htm).
 
