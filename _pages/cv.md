@@ -15,11 +15,9 @@ Education
 * B.Sc., University of Science and Technology of China, 2014
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+------
+* Nov/2023-current: Research Assistant Professor
+  * Institute of Geometry and Physics, Universit of Science and Technology of China
 
 * Fall 2015: Research Assistant
   * GitHub University
