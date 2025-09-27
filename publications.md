@@ -6,19 +6,19 @@
 
 8. Stein degree on log Calabi-Yau fibrations.    
    *Caucher Birkar and Santai Qu*    
-   Preprint [[arXiv]](https://arxiv.org/abs/2509.20948)
+   Preprint, arXiv:2509.20948 [[arXiv]](https://arxiv.org/abs/2509.20948)
 
 7. Saturated base change of toroidal morphisms.    
    *Santai Qu*       
-   Preprint [[arXiv]](https://arxiv.org/abs/2509.15590)  
+   Preprint, arXiv:2509.15590 [[arXiv]](https://arxiv.org/abs/2509.15590)  
 
 6. Irrationality of degenerations of Fano varieties.   
    *Caucher Birkar and Santai Qu*   
-   Preprint [[arXiv]](https://arxiv.org/abs/2401.07233)   
+   Preprint, arXiv:2401.07233 [[arXiv]](https://arxiv.org/abs/2401.07233)   
 
 5. Injectivity theorem for generalised pairs on surfaces.   
    *Santai Qu*   
-   Preprint [[arXiv]](https://arxiv.org/abs/2401.07248)  
+   Preprint, arXiv:2401.07248 [[arXiv]](https://arxiv.org/abs/2401.07248)  
 
 4. On subvarieties of degenerations of Fano varieties.  
    *Santai Qu*  
@@ -26,7 +26,7 @@
 
 3. Pseudo-Néron model and restriction of sections II.  
    *Santai Qu*  
-   Preprint [[arXiv]](https://arxiv.org/abs/1909.07562)
+   Preprint, arXiv:1909.07562 [[arXiv]](https://arxiv.org/abs/1909.07562)
 
 2. On examples of supersingular and rationally chain connected threefolds.  
     *Santai Qu*  
