@@ -2,7 +2,7 @@
 title: ""
 ---
 
-Upcoming Event:
+Upcoming event:
 ------
 * [Algebraic Geometry Workshop](https://ymsc.tsinghua.edu.cn/info/1434/4506.htm), Tsinghua University, Oct/2025
 
