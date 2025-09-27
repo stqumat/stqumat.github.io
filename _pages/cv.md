@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Stony Brook University, advisor: Jason Starr, 2020
+* Ph.D., Stony Brook University, 2020 (advisor: Jason Starr)
 * B.Sc., University of Science and Technology of China, 2014
 
 Work experience
