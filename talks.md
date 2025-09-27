@@ -17,7 +17,7 @@ title: ""
 * Tsinghua Postdoc Workshop, Tsinghua University, June/2021
 * Algebraic geometry seminar, ShanghaiTech University, Sept/2021
 * Tsinghua Postdoc Workshop, Tsinghua University, Sept/2020
-* Mini-course on (pseudo-)N´eron Models, Tongji University, July/29-August/03 2019
+* Mini-course on (pseudo-)Néron Models, Tongji University, July/29-August/03 2019
 * Annual Recital Talks, Stony Brook University, March/2019
 * Algebraic Geometry Seminar, University of Science and Technology of China, July/2017
 * Graduate Student Seminar, Stony Brook University, May/2016
