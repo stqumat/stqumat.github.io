@@ -1,4 +1,9 @@
-## Publications
+---
+title: ""
+---
+
+Publications
+-------
 
 9. Stein degree on non-Fano type fibrations.    
    [Caucher Birkar](https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm) and Santai Qu    
