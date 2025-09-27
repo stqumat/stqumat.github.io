@@ -1,6 +1,5 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: ""
 ---
 
 Teaching at USTC (2023-current):
