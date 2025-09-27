@@ -1,5 +1,9 @@
 ## Publications
 
+6. Irrationality of degenerations of Fano varieties.   
+   *Caucher Birkar and Santai Qu*   
+   Preprint [[arXiv]](https://arxiv.org/abs/2401.07233)   
+
 5. Injectivity theorem for generalised pairs on surfaces.   
    *Santai Qu*   
    Preprint [[arXiv]](https://arxiv.org/abs/2401.07248)  
