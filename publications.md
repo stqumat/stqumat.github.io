@@ -1,5 +1,9 @@
 ## Publications
 
+7. Saturated base change of toroidal morphisms.    
+   *Santai Qu*       
+   Preprint [[arXiv]](https://arxiv.org/abs/2509.15590)  
+
 6. Irrationality of degenerations of Fano varieties.   
    *Caucher Birkar and Santai Qu*   
    Preprint [[arXiv]](https://arxiv.org/abs/2401.07233)   
