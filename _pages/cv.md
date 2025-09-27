@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D., Stony Brook University, 2020 (advisor: Jason Starr)
 * B.Sc., University of Science and Technology of China, 2014
 
