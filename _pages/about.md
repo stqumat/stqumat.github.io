@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I work in birational geometry.
+I work in birational geometry.  I am a member of [Birational Geometry Group](https://ymsc.tsinghua.edu.cn/en/Research/Research_Teams/Birational_Geometry_Group.htm).
 
 I am currently a research assistant professor at the Institute of Geometry and Physics, University of Science and Technology of China [(USTC-IGP)](https://igp.ustc.edu.cn/main.htm).
 
