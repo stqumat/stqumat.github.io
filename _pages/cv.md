@@ -16,27 +16,13 @@ Education
 
 Work experience
 ------
-* Nov/2023-current: Research Assistant Professor
+* Nov/2023-current:
+  * Research Assistant Professor
   * Institute of Geometry and Physics, Universit of Science and Technology of China
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct/2020-Oct/2023: 
+  * Postdoc (mentor: Caucher Birkar)
+  * Yau Mathematical Sciences Center, Tsinghua University
 
 Publications
 ======
@@ -55,7 +41,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
