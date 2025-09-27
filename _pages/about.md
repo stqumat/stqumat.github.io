@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Santai Qu's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
