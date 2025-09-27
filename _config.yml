@@ -30,7 +30,7 @@ author:
   location         : "Shanghai, China"
   employer         : "USTC"
   uri              : # URL
-  email            : "santaiqu@ustc.edu.cn" 
+  email            : #"santaiqu@ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
