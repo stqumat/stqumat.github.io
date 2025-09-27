@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 
 Teaching at USTC (2023-current):
