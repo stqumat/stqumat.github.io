@@ -79,6 +79,18 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+
+title: 我的学术主页
+description: 使用 GitHub Pages 搭建的文献列表
+theme: jekyll-theme-minimal
+
+# 导航栏链接
+nav:
+  - name: 首页
+    link: /
+  - name: 出版物
+    link: /publications.md
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
