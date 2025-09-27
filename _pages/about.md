@@ -17,8 +17,9 @@ I received my Ph.D. in 2020 from Stony Brook University [(SUNY-SBU)](https://www
 
 I obtained my B.Sc. in 2014 from the University of Science and Technology of China [(USTC)](https://www.ustc.edu.cn).
 
+Contact:    
 ---
-title: "Contact"    
----
+
 **Address:** Building 2, USTC Shanghai Institute for Advanced Studies
+
 **Email:** santaiqu[at]ustc.edu.cn
