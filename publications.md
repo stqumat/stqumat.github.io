@@ -1,5 +1,9 @@
 ## Publications
 
+8. Stein degree on log Calabi-Yau fibrations.    
+   *Caucher Birkar and Santai Qu*    
+   Preprint [[arXiv]](https://arxiv.org/abs/2509.20948)
+
 7. Saturated base change of toroidal morphisms.    
    *Santai Qu*       
    Preprint [[arXiv]](https://arxiv.org/abs/2509.15590)  
