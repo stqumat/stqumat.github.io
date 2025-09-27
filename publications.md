@@ -1,5 +1,9 @@
 ## Publications
 
+9. Stein degree on non-Fano type fibrations.    
+   *Caucher Birkar and Santai Qu*    
+   Preprint     
+
 8. Stein degree on log Calabi-Yau fibrations.    
    *Caucher Birkar and Santai Qu*    
    Preprint [[arXiv]](https://arxiv.org/abs/2509.20948)
