@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "-"
-permalink: /publications/
+permalink: /my_publications/
 author_profile: true
 ---
 
