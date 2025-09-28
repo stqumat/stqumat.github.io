@@ -9,13 +9,13 @@
 
 main:
   - title: "Research"
-    url: /my_publications/
+    permalink:: /my_publications/
 
   - title: "Talks"
-    url: /talks/    
+    permalink:: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    permalink:: /teaching/    
     
   #- title: "CV"
    # url: /cv/
