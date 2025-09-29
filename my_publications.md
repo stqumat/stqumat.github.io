@@ -4,6 +4,7 @@ title: ""
 
 Publications
 -------
+The articles are sorted in reverse-chronological order based on their initial appearance on arXiv.
 
 <ol reversed>
 
