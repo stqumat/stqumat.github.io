@@ -11,12 +11,15 @@ Publications
    Stein degree on non-Fano type fibrations. <br>
    <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>
    Preprint, arXiv:2509.21824 
-    <a href="https://arxiv.org/abs/2509.21824">[arXiv]</a>
+   <a href="https://arxiv.org/abs/2509.21824">[arXiv]</a>
 </li>
 
-<li> Stein degree on log Calabi-Yau fibrations.    
-   [Caucher Birkar](https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm) and Santai Qu    
-   Preprint, arXiv:2509.20948 [[arXiv]](https://arxiv.org/abs/2509.20948) </li>
+<li> 
+   Stein degree on log Calabi-Yau fibrations. <br>
+   <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>  
+   Preprint, arXiv:2509.20948 
+   <a href="https://arxiv.org/abs/2509.20948">[arXiv]</a>
+</li>
 
 <li> Saturated base change of toroidal morphisms.    
    Santai Qu       
