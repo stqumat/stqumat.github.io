@@ -45,7 +45,7 @@ Publications
 <li> 
    On subvarieties of degenerations of Fano varieties. <br>
    Santai Qu <br>
-   <strong>International Journal of Mathematics</strong>strong>, 35, No. 14 (2024), 16 p. 
+   <strong>International Journal of Mathematics</strong>, 35, No. 14 (2024), 16 p. 
    <a href="https://www.worldscientific.com/doi/10.1142/S0129167X24500575">[Journal]</a>
    <a href="https://arxiv.org/abs/2109.11958">[arXiv]</a>
 </li>
@@ -60,13 +60,13 @@ Publications
 <li> 
    On examples of supersingular and rationally chain connected threefolds. <br>  
    Santai Qu <br>
-   <strong>Journal of Algebra</strong>strong>, 559 (2020), 184-194. 
+   <strong>Journal of Algebra</strong>, 559 (2020), 184-194. 
    <a href="https://www.sciencedirect.com/science/article/pii/S0021869320302234?via%3Dihub">[Journal]</a>
 </li>
 
 <li> Pseudo-Néron model and restriction of sections. <br> 
    Santai Qu <br> 
-   <strong>Michigan Mathematical Journal</strong>strong>, 71, No. 3 (2022), 451-486. 
+   <strong>Michigan Mathematical Journal</strong>, 71, No. 3 (2022), 451-486. 
    <a href="https://projecteuclid.org/journals/michigan-mathematical-journal/volume-71/issue-3/Pseudo-N%c3%a9ron-Model-and-Restriction-of-Sections/10.1307/mmj/20195764.short">[Journal]</a>
 </li>
 
