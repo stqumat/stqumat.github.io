@@ -4,8 +4,8 @@ title: ""
 
 Teaching at USTC (2023-current):
 ----------
-* Fall 2025: Complex Analysis B, instructor
-* Fall 2024: Functional Analysis (joint with [Gao Chen (陈杲)](https://faculty.ustc.edu.cn/chengao)), joint instructor
+* Fall 2025: Complex Analysis B (001548.04), instructor
+* Fall 2024: Functional Analysis (MATH3004.02), joint instructor (with [Gao Chen (陈杲)](https://faculty.ustc.edu.cn/chengao))
 
 Teaching at Tsinghua University (2020-2023):
 ---------
