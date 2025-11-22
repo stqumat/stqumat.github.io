@@ -4,9 +4,6 @@ title: ""
 
 Upcoming event:
 ------
-* Workshop on Algebraic Geometry at TSIMF, Sanya, Dec/27 - Dec/31, 2025    
-  Organisers: Caucher Birkar and Santai Qu
-
 * [Algebraic Geometry Talk](https://tianyuan.xmu.edu.cn/cn/letures/3925.html), Xiamen University, Nov/26/2025
 
 Invited talks:
