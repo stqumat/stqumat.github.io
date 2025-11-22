@@ -21,15 +21,15 @@ Teaching at Stony Brook University (2015-2020):
 * Spring 2020: MAT 122 (Overview of Calculus), TA
 * Fall 2019: MAT 125 (Calculus A), TA
 * Summer 2019: MAT 126 (Calculus B), grader   
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MAT 341 (Applied Real Analysis), grader
+  &nbsp; MAT 341 (Applied Real Analysis), grader
 * Spring 2019: MAT 125 (Calculus A), TA
 * Fall 2018: MAT 125 (Calculus A), TA
 * Summer 2018: MAT 312 (Applied Algebra), instructor & grader
 * Spring 2018: MAT 312 (Applied Algebra), TA   
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MAT 211 (Introduction to Linear Algebra), grader
+  &nbsp; MAT 211 (Introduction to Linear Algebra), grader
 * Fall 2017: MAT 131 (Calculus I), TA
 * Summer 2017: MAT 203 (Calculus III with Applications), instructor  
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MAT 127 (Calculus C), grader
+  &nbsp; MAT 127 (Calculus C), grader
 * Spring 2017: MAT 126 (Calculus B), TA
 * Fall 2016: MAT 127 (Calculus C), grader
 * Summer 2016: MAT 131 (Calculus I), instructor
