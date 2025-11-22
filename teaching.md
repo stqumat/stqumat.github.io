@@ -5,11 +5,11 @@ title: ""
 Teaching at USTC (2023-current):
 ----------
 * Fall 2025: Complex Analysis B, instructor
-* Fall 2024: Functional Analysis (joint with [Gao Chen](https://faculty.ustc.edu.cn/chengao)), joint instructor
+* Fall 2024: Functional Analysis (joint with [Gao Chen (陈杲)](https://faculty.ustc.edu.cn/chengao)), joint instructor
 
 Teaching at Tsinghua University (2020-2023):
 ---------
-* Fall 2021, Spring 2022, Fall 2022, Spring 2023: [Qiuzhen College](https://qzc.tsinghua.edu.cn), Qiuzhen Yiyou Scholar
+* Fall 2021, Spring 2022, Fall 2022, Spring 2023: [Qiuzhen College](https://qzc.tsinghua.edu.cn), Qiuzhen Yiyou Scholar (求真益友)
 * Spring 2021: Calculus, TA
 
 Teaching at Stony Brook University (2015-2020):
