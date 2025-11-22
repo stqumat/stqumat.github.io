@@ -22,7 +22,7 @@ Conferences and seminars organised:
 
 Referee:
 ------
-A serious and detailed refereeing work usually takes me more than 6 months, which I have done for
+A serious refereeing work usually takes me more than 6 months, which I have done for
 * Journal of Differential Geometry, and
 * Journal of Algebraic Geometry, etc.
 
