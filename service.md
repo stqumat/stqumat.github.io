@@ -2,7 +2,7 @@
 title: ""
 ---
 
-Conferences and seminars organised:
+Organisation:
 ------
 * Workshop on Algebraic Geometry at TSIMF, Sanya, Dec/27 - Dec/31, 2025    
   Organisers: Caucher Birkar and Santai Qu
