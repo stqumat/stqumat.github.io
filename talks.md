@@ -4,6 +4,7 @@ title: ""
 
 Upcoming event:
 ------
+* Algebraic Geometry Talk, Chongqing University, Dec/01/2025
 * [Algebraic Geometry Talk](https://tianyuan.xmu.edu.cn/cn/letures/3925.html), Xiamen University, Nov/26/2025
 
 Invited talks:
