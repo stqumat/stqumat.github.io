@@ -4,7 +4,7 @@ title: ""
 
 Upcoming event:
 ------
-* Algebraic Geometry Talk, Chongqing University, Dec/01/2025
+* [Algebraic Geometry Talk](https://sci.cqu.edu.cn/info/1290/8602.htm), Chongqing University, Dec/01/2025
 
 Invited talks:
 ------
