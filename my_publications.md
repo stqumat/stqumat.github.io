@@ -11,7 +11,8 @@ The articles are sorted in reverse-chronological order based on their first appe
 <li> 
    Stein degree on non-Fano type fibrations. <br>
    <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>
-   Preprint, arXiv:2509.21824 
+   <strong>Surveys in Differential Geometry</strong>, 28, No. 1 (2023), 1-15. 
+   <a href="https://intlpress.com/JDetail/2006389411758391297">[Journal]</a>
    <a href="https://arxiv.org/abs/2509.21824">[arXiv]</a>
 </li>
 
