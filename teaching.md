@@ -2,12 +2,12 @@
 title: ""
 ---
 
-Teaching at USTC (2023-current):
+Teaching at USTC (Fall 2023 - Spring 2026):
 ----------
 * Fall 2025: Complex Analysis B (001548.04), instructor
 * Fall 2024: Functional Analysis (MATH3004.02), joint instructor (with [Gao Chen (陈杲)](https://faculty.ustc.edu.cn/chengao))
 
-Teaching at Tsinghua University (2020-2023):
+Teaching at Tsinghua University (Fall 2020 - Spring 2023):
 ---------
 * Spring 2023: Qiuzhen Yiyou Scholar (求真益友), [Qiuzhen College](https://qzc.tsinghua.edu.cn)
 * Fall 2022: Qiuzhen Yiyou Scholar (求真益友), [Qiuzhen College](https://qzc.tsinghua.edu.cn)
@@ -15,7 +15,7 @@ Teaching at Tsinghua University (2020-2023):
 * Fall 2021: Qiuzhen Yiyou Scholar (求真益友), [Qiuzhen College](https://qzc.tsinghua.edu.cn)
 * Spring 2021: Calculus, TA
 
-Teaching at Stony Brook University (2015-2020):
+Teaching at Stony Brook University (Fall 2015 - Spring 2020):
 --------
 * Summer 2020: MAT 131 (Calculus I), instructor & grader
 * Spring 2020: MAT 122 (Overview of Calculus), TA
