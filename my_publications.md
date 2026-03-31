@@ -33,7 +33,7 @@ The articles are sorted in reverse-chronological order based on their first appe
 <li> 
    Irrationality of degenerations of Fano varieties. <br>
    <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>  
-   Accepted by <strong>American Journal of Mathematics<strong>
+   Accepted by <strong>American Journal of Mathematics</strong>
    <a href="https://arxiv.org/abs/2401.07233">[arXiv]</a>
 </li>
 
