@@ -9,11 +9,11 @@ redirect_from:
 
 I work in birational geometry.  I am a member of the [Birational Geometry Group](https://ymsc.tsinghua.edu.cn/en/Research/Research_Teams/Birational_Geometry_Group.htm).
 
-I am currently a research assistant professor at the Institute of Geometry and Physics, University of Science and Technology of China [(USTC-IGP)](https://igp.ustc.edu.cn/main.htm).
-
 ---
 
-I was a postdoc at Yau Mathematical Sciences Center, Tsinghua University [(Tsinghua-YMSC)](https://ymsc.tsinghua.edu.cn/en/) from 2020 to 2023 under the supervision of Prof. [Caucher Birkar](https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm).
+I was a research assistant professor at the Institute of Geometry and Physics, University of Science and Technology of China [(USTC-IGP)](https://igp.ustc.edu.cn/main.htm) from Nov/2023 to May/2026.
+
+I was a postdoc at Yau Mathematical Sciences Center, Tsinghua University [(Tsinghua-YMSC)](https://ymsc.tsinghua.edu.cn/en/) from Oct/2020 to Oct/2023 under the supervision of Prof. [Caucher Birkar](https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm).
 
 I received my Ph.D. in 2020 from Stony Brook University [(SUNY-SBU)](https://www.math.stonybrook.edu) under the supervision of Prof. [Jason Starr](https://www.math.stonybrook.edu/~jstarr/) (my [Math Genealogy](https://www.mathgenealogy.org/id.php?id=279745)).
 
