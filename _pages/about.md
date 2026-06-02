@@ -9,6 +9,8 @@ redirect_from:
 
 I work in birational geometry.  I am a member of the [Birational Geometry Group](https://ymsc.tsinghua.edu.cn/en/Research/Research_Teams/Birational_Geometry_Group.htm).
 
+I am currently an assistant professor at Beijing Institute of Mathematical Sciences and Applications [(BIMSA)](https://www.bimsa.cn/?silentSignin=1).
+
 ---
 
 I was a research assistant professor at the Institute of Geometry and Physics, University of Science and Technology of China [(USTC-IGP)](https://igp.ustc.edu.cn/main.htm) from Nov/2023 to May/2026.
@@ -22,6 +24,6 @@ I obtained my B.Sc. in 2014 from the School of the Gifted Young, University of S
 Contact:    
 ---
 
-**Address:** Building 2, USTC Shanghai Institute for Advanced Studies
+**Address:** C735, Shuangqing Complex Building
 
-**Email:** santaiqu[at]ustc.edu.cn
+**Email:** qusantai[at]bimsa.cn
