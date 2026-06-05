@@ -24,6 +24,6 @@ I obtained my B.Sc. in 2014 from the School of the Gifted Young, University of S
 Contact:    
 ---
 
-**Address:** C735, Shuangqing Complex Building
+**Address:** A710, Shuangqing Complex Building
 
 **Email:** qusantai[at]bimsa.cn
