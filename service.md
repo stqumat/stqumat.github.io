@@ -2,6 +2,11 @@
 title: ""
 ---
 
+Regular Seminar:  
+------
+[Tsinghua Algebraic Geometry Seminar](https://ymsc.tsinghua.edu.cn/info/1053/1730.htm), Tsinghua University, every semester  
+Organisers: Caucher Birkar and Santai Qu
+
 Organisation:
 ------
 * [Workshop on Algebraic Geometry at TSIMF](https://www.tsimf.cn/meeting/detail?id=444), Sanya, Dec/27 - Dec/31, 2025    
