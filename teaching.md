@@ -2,6 +2,10 @@
 title: ""
 ---
 
+Teaching at BIMSA (Fall 2026 - current):
+----------
+* Fall 2026: Logarithmic and Toroidal Methods in Birational Geometry, instructor (Sep/15/2026-Dec/10/2026)  
+
 Teaching at USTC (Fall 2023 - Spring 2026):
 ----------
 * Fall 2025: Complex Analysis B (001548.04), instructor
