@@ -26,4 +26,6 @@ Contact:
 
 **Address:** A710, Shuangqing Complex Building, Haidian, Beijing
 
-**Email:** qusantai[at]bimsa.cn
+**Email:** qusantai[at]bimsa.cn. 
+
+**Note:** Please include your name when emailing me.  Since unsigned emails can be difficult to distinguish from spam or scams, I am unable to respond to them. Thank you for your understanding.
