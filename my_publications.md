@@ -9,6 +9,13 @@ The articles are sorted in reverse-chronological order based on their first appe
 <ol reversed>
 
 <li> 
+   Stein degree over fields of characteristic zero. <br>
+   <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>  
+   Preprint, arXiv:2610.16205 
+   <a href="https://arxiv.org/abs/2610.16205">[arXiv]</a>
+</li>
+
+<li> 
    Stein degree on non-Fano type fibrations. <br>
    <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>
    <strong>Surveys in Differential Geometry</strong>, 28, No. 1 (2023), 1-15. 
