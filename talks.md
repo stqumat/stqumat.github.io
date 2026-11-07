@@ -8,6 +8,7 @@ TBA
 
 Invited talks:
 ------
+* YMSC-BIMSA Junior Geometry Research Seminar, Tsinghua University, Nov/06/2026  
 * [Algebraic Geometry Talk](https://sci.cqu.edu.cn/info/1290/8602.htm), Chongqing University, Dec/01/2025
 * [Algebraic Geometry Talk](https://tianyuan.xmu.edu.cn/cn/letures/3925.html), Xiamen University, Nov/26/2025
 * [Algebraic Geometry Workshop](https://ymsc.tsinghua.edu.cn/info/1434/4506.htm), Tsinghua University, Oct/2025
