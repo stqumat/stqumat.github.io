@@ -4,7 +4,7 @@ title: ""
 
 Upcoming event:
 ------
-TBA
+* [Contemporary Algebraic Geometry — International Workshop in Guangzhou 2026](https://sysugagp.github.io/CAG26/#home), Sun Yat-sen University, Dec/01/2026-Dec/05/2026  
 
 Invited talks:
 ------
