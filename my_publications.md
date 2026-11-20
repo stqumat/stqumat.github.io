@@ -10,7 +10,7 @@ The articles are sorted in reverse-chronological order based on their first appe
 
 <li> 
    Stein degree on birational log Calabi-Yau fibrations. <br>
-   Xintong Jiang and Santai Qu <br>  
+   <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jiang%2C+Xintong&terms-0-field=author&terms-1-operator=AND&terms-1-term=math.AG&terms-1-field=all&classification-include_cross_list=include&date-filter_by=all_dates&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first">Xintong Jiang</a> and Santai Qu <br>  
    Preprint, arXiv:2611.25501 
    <a href="https://arxiv.org/abs/2611.25501">[arXiv]</a>
 </li>  
