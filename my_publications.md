@@ -9,6 +9,13 @@ The articles are sorted in reverse-chronological order based on their first appe
 <ol reversed>
 
 <li> 
+   Stein degree on birational log Calabi-Yau fibrations. <br>
+   Xintong Jiang and Santai Qu <br>  
+   Preprint, arXiv:2611.25501 
+   <a href="https://arxiv.org/abs/2611.25501">[arXiv]</a>
+</li>  
+
+<li> 
    Stein degree over fields of characteristic zero. <br>
    <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm">Caucher Birkar</a> and Santai Qu <br>  
    Preprint, arXiv:2610.16205 
