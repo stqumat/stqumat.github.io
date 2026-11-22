@@ -28,6 +28,7 @@ Organisation:
 Referee:
 ------
 A serious refereeing work usually takes me more than 6 months, which I have done for
-* Journal of Differential Geometry, and
-* Journal of Algebraic Geometry, etc.
+* Journal of Differential Geometry, 
+* Journal of Algebraic Geometry, and
+* Annales de l'Institut Fourier, etc.
 
